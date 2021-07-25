@@ -24,3 +24,13 @@ body {
     border-right: 5px solid purple;
     border-left: 5px solid purple;
 }
+
+@media (max-width: 767px) {
+    img {
+        width: 10px;
+    }
+}
+
+img {
+    width: 400px;
+}
